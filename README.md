@@ -7,21 +7,21 @@ https://wiki.openstreetmap.org/wiki/Karaoke_Video_Contest_2012
 
 ## Language|Karaoke Video Contest 2012
 
-This is pre-event of [http://www.stateofthemap.org/ SotM Tokyo]
+This is pre-event of [http://2012.stateofthemap.org/](http://2012.stateofthemap.org/)
 
-[[File:FreeToTheMap2012.jpg]]
+https://www.youtube.com/watch?v=QlPpLVFWYpo
 
 
 
 ### Introduction
 
-We are looking for your good songs for [http://www.stateofthemap.org/ StoM Tokyo].
+We are looking for your good songs for [http://2012.stateofthemap.org/](http://2012.stateofthemap.org/).
 
 If you have creative power, please make and upload your songs based on our music.
 
 Especially, The Miraikan museum has a permanent exhibition for the spatial information.
 
-[http://www.miraikan.jp/anagura/en/index.html http://www.miraikan.jp/anagura/en/index.html]
+[http://www.miraikan.jp/anagura/en/index.html](http://www.miraikan.jp/anagura/en/index.html)
 
 
 
