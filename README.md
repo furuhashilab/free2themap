@@ -1,12 +1,11 @@
-# free2themap
-Free to the Map
+# free2themap "Free to the Map"
 
 Original Source is here :
 https://wiki.openstreetmap.org/wiki/Karaoke_Video_Contest_2012
 
 ---
 
-{{Language|Karaoke Video Contest 2012}}
+## Language|Karaoke Video Contest 2012
 
 This is pre-event of [http://www.stateofthemap.org/ SotM Tokyo]
 
@@ -14,7 +13,7 @@ This is pre-event of [http://www.stateofthemap.org/ SotM Tokyo]
 
 
 
-==Introduction==
+### Introduction
 
 We are looking for your good songs for [http://www.stateofthemap.org/ StoM Tokyo].
 
@@ -26,7 +25,8 @@ Especially, The Miraikan museum has a permanent exhibition for the spatial infor
 
 
 
-==Sample==
+### Sample
+
 Sample Video "Free to the Map"
 
 [http://www.youtube.com/watch?v=QlPpLVFWYpo http://www.youtube.com/watch?v=QlPpLVFWYpo]
@@ -75,7 +75,7 @@ powered by Miraikan(National Museum of Emerging Science and Innovation, Japan)
 
 
 
-==Main Theme Song "Free to the Map"==
+### Main Theme Song "Free to the Map" 
 
 Free to the Map
 
@@ -112,11 +112,11 @@ gether everyone's power　　and let get every body dance
 
 ''
 
-==Dead Line==
+### Dead Line
 
 * You have to publish on YouTube and [https://docs.google.com/a/osmf.jp/spreadsheet/viewform?formkey=dG9vQlp0WmpQamt4WWZDOW12UzVHZkE6MQ submit to our form] until Aug. 31th
 
-==License==
+### License
 
 [http://itunes.apple.com/jp/album/songs-of-songs-of-anagura/id543507729 music by Takayuki Nakamura ℗ 2012 BRAINSTORM.CO.LTD.]
 
