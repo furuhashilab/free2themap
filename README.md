@@ -45,9 +45,9 @@ Sample Video "Free to the Map"
 
 "Free to the Map" Rock Version
 
-[http://www.youtube.com/watch?v=N3Q4ly_rueU http://www.youtube.com/watch?v=N3Q4ly_rueU]
+[http://www.youtube.com/watch?v=N3Q4ly_rueU[(http://www.youtube.com/watch?v=N3Q4ly_rueU)
 
--> MP3 file: [http://dl.dropbox.com/u/1182348/mp3/free_to_the_map.mp3 http://dl.dropbox.com/u/1182348/mp3/free_to_the_map.mp3]
+-> [MP3 file](https://github.com/furuhashilab/free2themap/blob/master/FreetotheMapRockversion.mp3)
 
 
 I tried to sing "Free to the Map".
@@ -60,7 +60,7 @@ I tried to sing "Free to the Map".
 
 -> Capture sbv file: [http://dl.dropbox.com/u/1182348/mp3/captions_FreeToTheMap_JA.sbv http://dl.dropbox.com/u/1182348/mp3/captions_FreeToTheMap_JA.sbv]
 
-==Rule==
+### Rule
 * You can use "Song of ANAGURA" for this contest
 
 http://itunes.apple.com/jp/album/songs-of-songs-of-anagura/id543507729
